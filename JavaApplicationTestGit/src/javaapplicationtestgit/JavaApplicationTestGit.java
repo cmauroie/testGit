@@ -17,6 +17,8 @@ public class JavaApplicationTestGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Mundo Git");
+        
+        System.out.println("Hola mundo nuevafuncion -> branch");
     }
     
 }
