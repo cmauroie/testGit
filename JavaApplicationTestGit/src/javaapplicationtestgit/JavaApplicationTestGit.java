@@ -19,6 +19,8 @@ public class JavaApplicationTestGit {
         System.out.println("Hola Mundo Git");
         
         System.out.println("Hola mundo nuevafuncion -> branch");
+        
+        System.out.println("Hola mundo branch 2");
     }
     
 }
